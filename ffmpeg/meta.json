@@ -1,6 +1,6 @@
 [
   {
-    "ident": "pd2-mods-dependencies",
+    "ident": "ffmpeg-exe-dependencies",
     "download": "https://drnewbie.github.io/pd2-mods-dependencies/ffmpeg/ffmpeg-exe-dependencies.zip"
   }
 ]

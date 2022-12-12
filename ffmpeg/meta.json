@@ -1,6 +1,9 @@
 [
   {
+    "name": "FFmpeg.exe",
     "ident": "ffmpeg-exe-dependencies",
-    "download": "https://drnewbie.github.io/pd2-mods-dependencies/ffmpeg/ffmpeg-exe-dependencies.zip"
+    "hash": "fda923197e27819e70b9c5e0937e64bcb0c0eaf8694c5cd50d75718136be3e03",
+    "patchnotes_url": "https://github.com/DrNewbie/pd2-mods-dependencies/commits/main",
+    "download_url": "https://drnewbie.github.io/pd2-mods-dependencies/ffmpeg/ffmpeg-exe-dependencies.zip"
   }
 ]
